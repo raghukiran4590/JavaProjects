@@ -1,4 +1,4 @@
-package Package1;
+package Basics;
 
 public class ObjectCreation implements Cloneable{
     String name1 = "Object1";

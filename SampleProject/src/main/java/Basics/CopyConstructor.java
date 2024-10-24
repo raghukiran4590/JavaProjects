@@ -1,4 +1,4 @@
-package Package1;
+package Basics;
 
 //creating object using copy constructor
 public class CopyConstructor {
