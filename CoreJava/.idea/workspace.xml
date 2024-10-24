@@ -53,7 +53,7 @@
   <component name="RunManager" selected="Application.Main">
     <configuration name="CopyConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.CopyConstructor" />
-      <module name="SampleProject" />
+      <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Basics.*" />
@@ -66,7 +66,7 @@
     </configuration>
     <configuration name="DeepCopy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeepCopy.Main" />
-      <module name="SampleProject" />
+      <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DeepCopy.*" />
@@ -79,14 +79,14 @@
     </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.HelloWorld" />
-      <module name="SampleProject" />
+      <module name="CoreJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ShallowCopy.Main" />
-      <module name="SampleProject" />
+      <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ShallowCopy.*" />
@@ -99,13 +99,26 @@
     </configuration>
     <configuration name="ObjectCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.ObjectCreation" />
-      <module name="SampleProject" />
+      <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CoreJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CoreJava" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
