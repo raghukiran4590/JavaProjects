@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
-  <artifactId>SampleProject</artifactId>
+  <artifactId>CoreJava</artifactId>
   <version>1.0-SNAPSHOT</version>
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
   </properties>
-  <name>Archetype - SampleProject</name>
+  <name>Archetype - CoreJava</name>
   <url>http://maven.apache.org</url>
 </project>
