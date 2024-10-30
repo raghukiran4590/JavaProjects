@@ -57,7 +57,7 @@
       <recent name="Inheritance2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Duck">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inheritance.Cat" />
       <module name="CoreJava" />
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrivateAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AccessModifiers1.PrivateAccess" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.Test" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AccessModifiers1.*" />
+          <option name="PATTERN" value="Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Duck" />
         <item itemvalue="Application.InheritanceProtected" />
         <item itemvalue="Application.Cat" />
         <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.PrivateAccess" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729804800902</updated>
       <workItem from="1729804814906" duration="8068000" />
-      <workItem from="1730258691744" duration="1363000" />
+      <workItem from="1730258691744" duration="4446000" />
     </task>
     <servers />
   </component>
