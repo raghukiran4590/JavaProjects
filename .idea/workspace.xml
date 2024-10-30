@@ -49,7 +49,7 @@
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -135,11 +135,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729804800902</updated>
-      <workItem from="1729804814906" duration="5534000" />
+      <workItem from="1729804814906" duration="8068000" />
+      <workItem from="1730258691744" duration="1363000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
