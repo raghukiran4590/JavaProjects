@@ -58,7 +58,7 @@
       <recent name="Inheritance2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnonymousClass.Test">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="AnonymousClass.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnonymousClass.Test" />
       <module name="CoreJava" />
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Polymorphism.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InnerLocalClass.Test" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="PATTERN" value="InnerLocalClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.AnonymousClass.Test" />
         <item itemvalue="Application.MemberStaticInnerClass.Test" />
         <item itemvalue="Application.InnerClasses.Test" />
         <item itemvalue="Application.Interfaces.Test" />
-        <item itemvalue="Application.Polymorphism.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729804800902</updated>
       <workItem from="1729804814906" duration="8068000" />
-      <workItem from="1730258691744" duration="13946000" />
+      <workItem from="1730258691744" duration="16616000" />
     </task>
     <servers />
   </component>
