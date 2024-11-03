@@ -9,9 +9,9 @@ public class Bank {
         this.balance = balance;
     }
 
-    public void withdraw() throws Exception {
+    public void withdraw() throws InsufficientFunds {
         if(amount > balance) {
-            throw new Exception("Insufficient Funds");
+            throw new InsufficientFunds("You dont have money");
         }
     }
 }
