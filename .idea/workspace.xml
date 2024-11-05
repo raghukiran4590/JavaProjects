@@ -62,7 +62,7 @@
       <recent name="Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Enumeration.Test">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Day" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Enumeration.Day" />
       <module name="CoreJava" />
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Weekday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Enumeration.Weekday" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static.Student" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Enumeration.*" />
+          <option name="PATTERN" value="Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wrapper.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wrapper.Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static.Test" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Wrapper.*" />
+          <option name="PATTERN" value="Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.Enumeration.Test" />
         <item itemvalue="Application.Day" />
         <item itemvalue="Application.Days" />
-        <item itemvalue="Application.Weekday" />
-        <item itemvalue="Application.Wrapper.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729804800902</updated>
       <workItem from="1729804814906" duration="8068000" />
-      <workItem from="1730258691744" duration="34256000" />
+      <workItem from="1730258691744" duration="38166000" />
     </task>
     <servers />
   </component>
