@@ -62,7 +62,7 @@
       <recent name="Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReversePrint">
+  <component name="RunManager" selected="Application.JaggedArray">
     <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.ArraySum" />
       <module name="CoreJava" />
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.PrintValues" />
+    <configuration name="JaggedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.JaggedArray" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -115,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNaturalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.SumOfNaturalNumbers" />
+    <configuration name="TwoDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TwoDArray" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JaggedArray" />
+        <item itemvalue="Application.TwoDArray" />
         <item itemvalue="Application.ReversePrint" />
         <item itemvalue="Application.ArraySum" />
         <item itemvalue="Application.FindValue" />
-        <item itemvalue="Application.PrintValues" />
-        <item itemvalue="Application.SumOfNaturalNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729804800902</updated>
       <workItem from="1729804814906" duration="8068000" />
-      <workItem from="1730258691744" duration="40207000" />
+      <workItem from="1730258691744" duration="41440000" />
     </task>
     <servers />
   </component>
