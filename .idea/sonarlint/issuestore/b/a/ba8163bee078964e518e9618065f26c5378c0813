@@ -1,0 +1,13 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€ÜÜ•øÿÿÿÿ8ê…µç®2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÎ•·8ú…µç®2
+L	java:S106"+Replace this use of System.out by a logger.(†İªíûÿÿÿÿ8­†µç®2
+L	java:S106"+Replace this use of System.out by a logger.(ñ½š°şÿÿÿÿ8°†µç®2
+L	java:S106"+Replace this use of System.out by a logger.(’ûÏãûÿÿÿÿ8±†µç®2
+G	java:S106"+Replace this use of System.out by a logger.(ÈšÙï8±†µç®2
+G	java:S106"+Replace this use of System.out by a logger.(½Œï½8±†µç®2
+L	java:S106'"+Replace this use of System.out by a logger.(ƒ¯â’úÿÿÿÿ8µ†µç®2
+G	java:S106."+Replace this use of System.out by a logger.(şıÈ8¶†µç®2
+G	java:S1060"+Replace this use of System.out by a logger.(×•Ó 8‡¡¸ç®2
+O
+java:S1068"-Remove this unused "hotelName" private field.(Ğ¼¡úÿÿÿÿ8·†µç®2

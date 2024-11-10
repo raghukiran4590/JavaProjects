@@ -1,0 +1,25 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹Ëşˆ8¿ğ…¯2
+W
+java:S1854"5Remove this useless assignment to local variable "g".(¦³ùıÿÿÿÿ8Êğ…¯2
+R
+java:S1854"5Remove this useless assignment to local variable "e".(«á‘™8Êğ…¯2
+W
+java:S1854"5Remove this useless assignment to local variable "f".(ÓÀşÁüÿÿÿÿ8Êğ…¯2
+R
+java:S1854"5Remove this useless assignment to local variable "c".(øé‚¥8Êğ…¯2
+]	java:S125"<This block of commented-out lines of code should be removed.(ÄøÏˆøÿÿÿÿ8Ëğ…¯2
+C
+java:S1481"&Remove this unused "c" local variable.(øé‚¥8Ëğ…¯2
+X	java:S125"<This block of commented-out lines of code should be removed.(·ûÉ¢8Ëğ…¯2
+H
+java:S1481"&Remove this unused "f" local variable.(ÓÀşÁüÿÿÿÿ8Ëğ…¯2
+C
+java:S1481"&Remove this unused "e" local variable.(«á‘™8Ëğ…¯2
+W	java:S125"<This block of commented-out lines of code should be removed.(£‚Ù8Ëğ…¯2
+H
+java:S1481"&Remove this unused "g" local variable.(¦³ùıÿÿÿÿ8Ìğ…¯2
+]	java:S125"<This block of commented-out lines of code should be removed.(»Îèøÿÿÿÿ8Ìğ…¯2
+G	java:S106!"+Replace this use of System.out by a logger.(¢¨Ùñ8Íğ…¯2
+L	java:S106""+Replace this use of System.out by a logger.(–ÇˆÇúÿÿÿÿ8Íğ…¯2
+G	java:S106#"+Replace this use of System.out by a logger.(²Ÿª¾8´ †¯2

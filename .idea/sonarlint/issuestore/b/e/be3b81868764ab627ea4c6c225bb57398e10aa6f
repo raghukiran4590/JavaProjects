@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¹’„øÿÿÿÿ8…¢¾«®2
+L	java:S106	"+Replace this use of System.out by a logger.(²ä‘Ãÿÿÿÿÿ8¦¢¾«®2
+[
+java:S3252	"9Use static access with "Interfaces.Animal" for "MAX_AGE".(²ä‘Ãÿÿÿÿÿ8§¢¾«®2
+_
+java:S3252	"=Use static access with "Interfaces.Animal" for "CURRENT_AGE".(²ä‘Ãÿÿÿÿÿ8§¢¾«®2
+G	java:S106"+Replace this use of System.out by a logger.(×àÛÁ8¨¢¾«®2
+V
+java:S3252"9Use static access with "Interfaces.Animal" for "MAX_AGE".(×àÛÁ8¨¢¾«®2
+Z
+java:S3252"=Use static access with "Interfaces.Animal" for "CURRENT_AGE".(×àÛÁ8¨¢¾«®2
+W	java:S125"<This block of commented-out lines of code should be removed.(çãœN8†¤¿«®2

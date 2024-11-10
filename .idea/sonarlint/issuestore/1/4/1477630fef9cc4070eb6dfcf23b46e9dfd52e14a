@@ -1,0 +1,16 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‹ŠÖþÿÿÿÿ8¤¡´¢±2
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(†Î‹ûùÿÿÿÿ8´¤´¢±2
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(©¾¤¤ýÿÿÿÿ8µ¤´¢±2
+X	java:S125"<This block of commented-out lines of code should be removed.(×ñòé8Í¤´¢±2
+]	java:S125"<This block of commented-out lines of code should be removed.(üÂè‰ùÿÿÿÿ8Ò¤´¢±2
+]	java:S125"<This block of commented-out lines of code should be removed.(…•‚­ùÿÿÿÿ8Ù¤´¢±2
+X	java:S125&"<This block of commented-out lines of code should be removed.(Ð™‚‘8é¤´¢±2
+L	java:S106*"+Replace this use of System.out by a logger.(ûã•²ùÿÿÿÿ8ê¤´¢±2
+]	java:S125)"<This block of commented-out lines of code should be removed.(¹Ï¸Ìÿÿÿÿÿ8ê¤´¢±2
+L	java:S106+"+Replace this use of System.out by a logger.(Ò“à·øÿÿÿÿ8ë¤´¢±2
+]	java:S1255"<This block of commented-out lines of code should be removed.(ˆúÔ¸úÿÿÿÿ8ð¤´¢±2
+]	java:S125?"<This block of commented-out lines of code should be removed.(ˆ¼Õ¿þÿÿÿÿ8ø¤´¢±2
+]	java:S125I"<This block of commented-out lines of code should be removed.(Åëû¶ýÿÿÿÿ8¥´¢±2

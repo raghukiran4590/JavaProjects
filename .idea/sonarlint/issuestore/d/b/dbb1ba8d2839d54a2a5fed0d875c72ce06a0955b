@@ -1,0 +1,19 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÒÂÍıÿÿÿÿ8Ê·ù®2
+\
+java:S2259"?A "NullPointerException" could be thrown; "s" is nullable here.(å¥«î8á·ù®2
+X	java:S125"<This block of commented-out lines of code should be removed.(©Ğì¦8ó·ù®2
+L	java:S106"+Replace this use of System.out by a logger.(Ò¯Ğúÿÿÿÿ8ö·ù®2
+G	java:S106"+Replace this use of System.out by a logger.(†™ñ‹8÷·ù®2
+L	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8ø·ù®2
+L	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ø·ù®2
+]	java:S125"<This block of commented-out lines of code should be removed.(íû¬Šûÿÿÿÿ8½Œù®2
+L	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8ş·ù®2
+L	java:S106"+Replace this use of System.out by a logger.(£Ï¼àùÿÿÿÿ8ş·ù®2
+X	java:S125"<This block of commented-out lines of code should be removed.(†€éˆ8ÿ·ù®2
+h
+java:S1128"FRemove this unused import 'java.nio.file.FileSystemNotFoundException'.(ğ‹ê÷üÿÿÿÿ8ÁŒù®2
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8€¸ù®2
+H
+java:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ8€¸ù®2

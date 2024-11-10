@@ -1,0 +1,17 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Ã£ 8‹Ü†¼¯2
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ú–Üşÿÿÿÿ8Ü†¼¯2
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æƒüÿÿÿÿÿ8ôÔ‹¼¯2
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­ùÂá8Ü†¼¯2
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Öº Ú8Ü†¼¯2
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—ğéÂüÿÿÿÿ8Ü†¼¯2
+{	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(üÕ²«şÿÿÿÿ8Ü†¼¯2
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÎÉ•8Ü†¼¯2
+G	java:S106"+Replace this use of System.out by a logger.(‘–ïŒ8Âœ¼¯2
+L	java:S106"+Replace this use of System.out by a logger.(æ¨Üåıÿÿÿÿ8Ãœ¼¯2
+F	java:S106"+Replace this use of System.out by a logger.(¦ÁŠr8Ãœ¼¯2
+L	java:S106"+Replace this use of System.out by a logger.(¤‘ÿüüÿÿÿÿ8Ãœ¼¯2
+G	java:S106"+Replace this use of System.out by a logger.(—ğúÖ8Ãœ¼¯2
+L	java:S106"+Replace this use of System.out by a logger.(ŸÖãùşÿÿÿÿ8Ãœ¼¯2
+L	java:S106"+Replace this use of System.out by a logger.(±šæŠıÿÿÿÿ8Äœ¼¯2
