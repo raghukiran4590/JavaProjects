@@ -70,7 +70,20 @@
       <recent name="Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashTreeMap">
+  <component name="RunManager" selected="Application.Collection">
+    <configuration name="Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Collection" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HashTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.HashTreeMap" />
       <module name="CoreJava" />
@@ -90,19 +103,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Pair" />
-      <module name="CoreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Collection" />
         <item itemvalue="Application.HashTreeMap" />
         <item itemvalue="Application.QueueDequeue" />
         <item itemvalue="Application.ListSet" />
         <item itemvalue="Application.Wildcard" />
-        <item itemvalue="Application.Pair" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,7 @@
       <workItem from="1731160699763" duration="4421000" />
       <workItem from="1731212331322" duration="257000" />
       <workItem from="1731212611129" duration="354000" />
-      <workItem from="1731212985575" duration="2595000" />
+      <workItem from="1731212985575" duration="4015000" />
     </task>
     <servers />
   </component>
