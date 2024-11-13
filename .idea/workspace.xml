@@ -70,7 +70,7 @@
       <recent name="Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DaemonThread">
+  <component name="RunManager" selected="Application.SyncDemo">
     <configuration name="DaemonThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Multithreading.DaemonThread" />
       <module name="CoreJava" />
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileInputOutput.ReadObject" />
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.Sample" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileInputOutput.*" />
+          <option name="PATTERN" value="Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.Sample" />
+    <configuration name="SyncDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.SyncDemo" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SyncDemo" />
         <item itemvalue="Application.DaemonThread" />
         <item itemvalue="Application.Sample" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.ReadObject" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,7 @@
       <workItem from="1731160699763" duration="4421000" />
       <workItem from="1731212331322" duration="257000" />
       <workItem from="1731212611129" duration="354000" />
-      <workItem from="1731212985575" duration="13396000" />
+      <workItem from="1731212985575" duration="15941000" />
     </task>
     <servers />
   </component>
