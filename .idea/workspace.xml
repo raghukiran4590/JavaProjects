@@ -74,9 +74,9 @@
       <recent name="Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReentrantFairnessExample">
-    <configuration name="BankApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.BankApp" />
+  <component name="RunManager" selected="Application.Deadlock (1)">
+    <configuration name="Deadlock (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.Deadlock" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.ReentrantExample" />
+    <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.Deadlock" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Deadlock (1)" />
+        <item itemvalue="Application.Deadlock" />
         <item itemvalue="Application.ReentrantFairnessExample" />
         <item itemvalue="Application.ReentrantFairnessExample (2)" />
         <item itemvalue="Application.ReentrantFairnessExample (1)" />
-        <item itemvalue="Application.ReentrantExample" />
-        <item itemvalue="Application.BankApp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,7 @@
       <workItem from="1731160699763" duration="4421000" />
       <workItem from="1731212331322" duration="257000" />
       <workItem from="1731212611129" duration="354000" />
-      <workItem from="1731212985575" duration="27881000" />
+      <workItem from="1731212985575" duration="31544000" />
     </task>
     <servers />
   </component>
