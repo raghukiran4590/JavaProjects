@@ -27,7 +27,7 @@ public class BankAccount {
                     balance -= amount;
                     System.out.println(Thread.currentThread().getName() +" has completed the withdrawal. Remaining balance is : "+balance);
                  } catch (Exception e) {
-                    System.out.println(e);
+                    Thread.currentThread().interrupt();
                 } finally {
                         lock.unlock();
                     }
@@ -38,7 +38,7 @@ public class BankAccount {
                 System.out.println(Thread.currentThread().getName() + " couldn't acquire the lock, will try again later.");
             }
         } catch (Exception e) {
-            System.out.println(e);
+            Thread.currentThread().interrupt();
         }
     }
 }

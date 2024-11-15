@@ -74,7 +74,7 @@
       <recent name="Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BankApp (1)">
+  <component name="RunManager" selected="Application.ReentrantFairnessExample">
     <configuration name="BankApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Multithreading.BankApp" />
       <module name="CoreJava" />
@@ -88,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.BankApp" />
+    <configuration name="ReentrantExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.ReentrantExample" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DaemonThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.DaemonThread" />
+    <configuration name="ReentrantFairnessExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.ReentrantFairnessExample" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.Sample" />
+    <configuration name="ReentrantFairnessExample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.ReentrantFairnessExample" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SyncDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.SyncDemo" />
+    <configuration name="ReentrantFairnessExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.ReentrantFairnessExample" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReentrantFairnessExample" />
+        <item itemvalue="Application.ReentrantFairnessExample (2)" />
+        <item itemvalue="Application.ReentrantFairnessExample (1)" />
+        <item itemvalue="Application.ReentrantExample" />
         <item itemvalue="Application.BankApp (1)" />
-        <item itemvalue="Application.BankApp" />
-        <item itemvalue="Application.SyncDemo" />
-        <item itemvalue="Application.DaemonThread" />
-        <item itemvalue="Application.Sample" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,7 @@
       <workItem from="1731160699763" duration="4421000" />
       <workItem from="1731212331322" duration="257000" />
       <workItem from="1731212611129" duration="354000" />
-      <workItem from="1731212985575" duration="22865000" />
+      <workItem from="1731212985575" duration="27881000" />
     </task>
     <servers />
   </component>
