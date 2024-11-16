@@ -63,7 +63,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -74,7 +74,7 @@
       <recent name="Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Deadlock (1)">
+  <component name="RunManager" selected="Application.ThreadCommunication (2)">
     <configuration name="Deadlock (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Multithreading.Deadlock" />
       <module name="CoreJava" />
@@ -101,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantFairnessExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.ReentrantFairnessExample" />
+    <configuration name="ThreadCommunication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.ThreadCommunication" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantFairnessExample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.ReentrantFairnessExample" />
+    <configuration name="ThreadCommunication (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.ThreadCommunication" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantFairnessExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.ReentrantFairnessExample" />
+    <configuration name="ThreadCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.ThreadCommunication" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadCommunication (2)" />
+        <item itemvalue="Application.ThreadCommunication (1)" />
+        <item itemvalue="Application.ThreadCommunication" />
         <item itemvalue="Application.Deadlock (1)" />
         <item itemvalue="Application.Deadlock" />
-        <item itemvalue="Application.ReentrantFairnessExample" />
-        <item itemvalue="Application.ReentrantFairnessExample (2)" />
-        <item itemvalue="Application.ReentrantFairnessExample (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,7 @@
       <workItem from="1731160699763" duration="4421000" />
       <workItem from="1731212331322" duration="257000" />
       <workItem from="1731212611129" duration="354000" />
-      <workItem from="1731212985575" duration="31544000" />
+      <workItem from="1731212985575" duration="33521000" />
     </task>
     <servers />
   </component>
