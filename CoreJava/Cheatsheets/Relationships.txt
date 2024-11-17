@@ -15,6 +15,8 @@ class Dog extends Animal {
         System.out.println("Dog is barking");
     }
 }
+
+
 2. Association (Has-A Relationship):
 This relationship represents a connection between two classes where one class contains an object of another class as a member variable.
 It signifies that one class "has-a" relationship with another class.
@@ -33,6 +35,7 @@ class Engine {
         System.out.println("Engine started");
     }
 }
+
 Types of Association:
 One-to-One:
 One object of a class is associated with one object of another class.
@@ -42,15 +45,20 @@ Many-to-One:
 Multiple objects of a class are associated with one object of another class.
 Many-to-Many:
 Multiple objects of a class are associated with multiple objects of another class.
+
+
 3. Aggregation (Has-A Relationship - Weaker Form):
 This is a special type of association where the contained object can exist independently of the containing object.
 Example: A car has wheels, but wheels can exist independently of the car.
+
 4. Composition (Has-A Relationship - Stronger Form):
 This is a special type of association where the contained object cannot exist independently of the containing object.
 Example: A house has rooms, but rooms cannot exist independently of the house.
+
 5. Interface Implementation (Can-Do Relationship):
 This relationship represents a class implementing an interface, where the class agrees to provide the behaviors specified in the interface.
 The keyword implements is used for this relationship.
+
 Java
 
 interface Shape {
