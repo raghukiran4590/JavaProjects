@@ -75,9 +75,9 @@
       <recent name="Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VolatileExample">
-    <configuration name="CF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExecutorFramework.CF" />
+  <component name="RunManager" selected="Application.Atomicity">
+    <configuration name="Atomicity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExecutorFramework.Atomicity" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompletableFutureService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExecutorFramework.CompletableFutureService" />
+    <configuration name="CF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExecutorFramework.CF" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Atomicity" />
         <item itemvalue="Application.VolatileExample" />
         <item itemvalue="Application.Generics.Demo" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.CF" />
-        <item itemvalue="Application.CompletableFutureService" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +177,7 @@
       <workItem from="1731160699763" duration="4421000" />
       <workItem from="1731212331322" duration="257000" />
       <workItem from="1731212611129" duration="354000" />
-      <workItem from="1731212985575" duration="56988000" />
+      <workItem from="1731212985575" duration="58410000" />
     </task>
     <servers />
   </component>
