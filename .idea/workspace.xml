@@ -15,6 +15,7 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -51,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -75,7 +77,7 @@
       <recent name="Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Atomicity">
+  <component name="RunManager" selected="Application.FileInputOutput.Demo">
     <configuration name="Atomicity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExecutorFramework.Atomicity" />
       <module name="CoreJava" />
@@ -89,25 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExecutorFramework.CF" />
+    <configuration name="FileInputOutput.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileInputOutput.Demo" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExecutorFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.Demo" />
-      <module name="CoreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lambda.*" />
+          <option name="PATTERN" value="FileInputOutput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,13 +143,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NewFile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaProjects/CoreJava/FileInputOutput/NewFile.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileInputOutput.Demo" />
+        <item itemvalue="JavaScript Debug.NewFile.html" />
         <item itemvalue="Application.Atomicity" />
         <item itemvalue="Application.VolatileExample" />
         <item itemvalue="Application.Generics.Demo" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.CF" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +169,7 @@
       <workItem from="1731160699763" duration="4421000" />
       <workItem from="1731212331322" duration="257000" />
       <workItem from="1731212611129" duration="354000" />
-      <workItem from="1731212985575" duration="58410000" />
+      <workItem from="1731212985575" duration="61111000" />
     </task>
     <servers />
   </component>
