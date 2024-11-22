@@ -13,7 +13,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="CoreJava" target="17" />
       <module name="SampleProject" target="17" />
     </bytecodeTargetLevel>
   </component>
