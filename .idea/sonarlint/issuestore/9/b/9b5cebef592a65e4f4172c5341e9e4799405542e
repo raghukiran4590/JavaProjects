@@ -1,0 +1,7 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã·÷‹ùÿÿÿÿ8³‰é¼³2
+[	java:S899":Do something with the "boolean" value returned by "await".(ÖÌ‹Öûÿÿÿÿ8‚Šé¼³2
+]	java:S125"<This block of commented-out lines of code should be removed.(çêÛÍýÿÿÿÿ8»€ê¼³2
+L	java:S106"+Replace this use of System.out by a logger.(§¡¢±üÿÿÿÿ8ƒŠé¼³2
+G	java:S106'"+Replace this use of System.out by a logger.(÷úˆØ8†Šé¼³2
+X	java:S125("<This block of commented-out lines of code should be removed.(Ÿ•¿8ˆŠé¼³2

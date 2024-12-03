@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶µãƒüÿÿÿÿ8Åğä´2
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(´ÓñÊ8èğä´2
+n
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îŞÀ‘ûÿÿÿÿ8èğä´2
+c	java:S899
+"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8€ñä´2
+]	java:S125"<This block of commented-out lines of code should be removed.(çÏÁøÿÿÿÿ8ƒñä´2
+X	java:S125"<This block of commented-out lines of code should be removed.(ª‹¿Ÿ8ƒñä´2
+L	java:S106"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8…ñä´2

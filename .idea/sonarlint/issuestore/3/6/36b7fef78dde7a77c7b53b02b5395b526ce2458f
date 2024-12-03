@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Şú¯8¢‡”³2
+L	java:S106!"+Replace this use of System.out by a logger.(è‚±Œşÿÿÿÿ8œ‡”³2
+R
+java:S2446#"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8‡”³2
+L	java:S106/"+Replace this use of System.out by a logger.(¯…ü£ùÿÿÿÿ8‡”³2
+R
+java:S24460"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8‡”³2

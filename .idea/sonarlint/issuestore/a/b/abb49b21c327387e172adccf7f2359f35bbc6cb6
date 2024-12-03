@@ -1,0 +1,16 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶µãƒüÿÿÿÿ8µ—šÃ±2
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(üÕÍ‡8¿—šÃ±2
+q
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8¿—šÃ±2
+G	java:S106"+Replace this use of System.out by a logger.(¡Ò¿‡8Â—šÃ±2
+^
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(¼Š»Ì8Â—šÃ±2
+L	java:S106"+Replace this use of System.out by a logger.(çåÈ´ûÿÿÿÿ8È—šÃ±2
+L	java:S106"+Replace this use of System.out by a logger.(…†±ïüÿÿÿÿ8È—šÃ±2
+L	java:S106"+Replace this use of System.out by a logger.(Ì¿È˜üÿÿÿÿ8È—šÃ±2
+G	java:S106"+Replace this use of System.out by a logger.(‡¤Ÿ”8à‰žÃ±2
+L	java:S106"+Replace this use of System.out by a logger.(¢œ—ëúÿÿÿÿ8à‰žÃ±2
+L	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍþÿÿÿÿ8à‰žÃ±2

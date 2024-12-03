@@ -1,0 +1,16 @@
+
+>
+java:S1643"Use a StringBuilder instead.(«ύ®Θωÿÿÿÿ8Ηοσ±2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ήϊ―8ίοσ±2
+H
+java:S1481"&Remove this unused "a" local variable.(¥λώÿÿÿÿ8Δ“οσ±2
+X	java:S125"<This block of commented-out lines of code should be removed.(―·Δ±8Ι“οσ±2
+G	java:S106"+Replace this use of System.out by a logger.(β’©Θ8Ξ“οσ±2
+X	java:S125"<This block of commented-out lines of code should be removed.(ΥΞ«Υ8Ξ“οσ±2
+]	java:S125"<This block of commented-out lines of code should be removed.(ύψ¥§ώÿÿÿÿ8Τ“οσ±2
+L	java:S106"+Replace this use of System.out by a logger.(¨¶ΡΝώÿÿÿÿ8Φ“οσ±2
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ΩΨ¤ήύÿÿÿÿ8Ϋ“οσ±2
+L	java:S106!"+Replace this use of System.out by a logger.(›Σπ°ώÿÿÿÿ8β“οσ±2
+X	java:S125 "<This block of commented-out lines of code should be removed.(Ψ†ª8δ“οσ±2
+]	java:S125+"<This block of commented-out lines of code should be removed.(αό©ÿÿÿÿÿ8ς“οσ±2

@@ -1,0 +1,11 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8çÚÌ½³2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã·÷‹ùÿÿÿÿ8øÆÊ½³2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ïÚÌ½³2
+L	java:S106"+Replace this use of System.out by a logger.(ıİÂ øÿÿÿÿ8ŸöÎ½³2
+L	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8šÁß½³2
+X	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³8…áØ½³2
+L	java:S106"+Replace this use of System.out by a logger.(§¡¢±üÿÿÿÿ8ŸÁß½³2
+a
+java:S1128"DRemove this unused import 'java.util.concurrent.ExecutionException'.(¡£ØÍ8Ùùİ½³2

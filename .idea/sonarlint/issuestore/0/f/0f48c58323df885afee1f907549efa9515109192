@@ -1,0 +1,9 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¥ŸÌƒ´2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã·÷‹ùÿÿÿÿ8×ÝÆƒ´2
+G	java:S106"+Replace this use of System.out by a logger.(ð¿±Ž8ŒÞÆƒ´2
+L	java:S106"+Replace this use of System.out by a logger.(ëÏ£·úÿÿÿÿ8’ÞÆƒ´2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8±ŸÌƒ´2
+^
+java:S1612"AReplace this lambda with method reference 'vol::printIfFlagTrue'.(Åáñš8ÜØÉƒ´2

@@ -1,0 +1,18 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã·÷‹ùÿÿÿÿ8ÆëÕ´³2
+X	java:S125"<This block of commented-out lines of code should be removed.(¦ÞÇ†8Ÿ ‚·³2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÎëÕ´³2
+F	java:S106"+Replace this use of System.out by a logger.(óÃ¯8ÎëÕ´³2
+L	java:S106"+Replace this use of System.out by a logger.(Ù¿éûÿÿÿÿ8àùâ´³2
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8üºï´³2
+X	java:S125"<This block of commented-out lines of code should be removed.(öË 8ý™í´³2
+F	java:S106"+Replace this use of System.out by a logger.(óÃ¯8àùâ´³2
+G	java:S106 "+Replace this use of System.out by a logger.(Ðëî¦8›Ýí´³2
+L	java:S106!"+Replace this use of System.out by a logger.(ÀøØúùÿÿÿÿ8¿çï´³2
+]	java:S125$"<This block of commented-out lines of code should be removed.(¦ñÆûþÿÿÿÿ8Äªá´³2
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8þ‚·³2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8þ‚·³2

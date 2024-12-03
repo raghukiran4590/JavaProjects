@@ -1,0 +1,18 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã·÷‹ùÿÿÿÿ8½øÛ™³2
+\
+java:S1854":Remove this useless assignment to local variable "submit".(Óš€´ûÿÿÿÿ8©„à™³2
+\
+java:S1854":Remove this useless assignment to local variable "future".(ßŒÆşüÿÿÿÿ8ï©á™³2
+
+java:S1130"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê8ğ©á™³2
+”
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(­Ëê8ğ©á™³2
+X	java:S125	"<This block of commented-out lines of code should be removed.(îÂ¬–8ÃøÛ™³2
+L	java:S106"+Replace this use of System.out by a logger.(ßŒÆşüÿÿÿÿ8ÃøÛ™³2
+M
+java:S1481"+Remove this unused "future" local variable.(ßŒÆşüÿÿÿÿ8ñ©á™³2
+L	java:S106"+Replace this use of System.out by a logger.(Óš€´ûÿÿÿÿ8«„à™³2
+M
+java:S1481"+Remove this unused "submit" local variable.(Óš€´ûÿÿÿÿ8¬„à™³2
+]	java:S125"<This block of commented-out lines of code should be removed.(‚”ã€ıÿÿÿÿ8ÄøÛ™³2

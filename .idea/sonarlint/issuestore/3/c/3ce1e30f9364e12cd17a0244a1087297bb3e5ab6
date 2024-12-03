@@ -1,0 +1,14 @@
+
+g	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8İÔö˜³2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã·÷‹ùÿÿÿÿ8çÔö˜³2
+\
+java:S1854":Remove this useless assignment to local variable "submit".(·£Ã×şÿÿÿÿ8˜Õö˜³2
+]	java:S125"<This block of commented-out lines of code should be removed.(é½Ğ…úÿÿÿÿ8™Õö˜³2
+L	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8Õö˜³2
+M
+java:S1481"+Remove this unused "submit" local variable.(·£Ã×şÿÿÿÿ8Õö˜³2
+{
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ŸÕö˜³2
+]	java:S125""<This block of commented-out lines of code should be removed.(ßîß‰ÿÿÿÿÿ8ŸÕö˜³2
+L	java:S106$"+Replace this use of System.out by a logger.(¸ÿ«Öşÿÿÿÿ8ŸÕö˜³2
+X	java:S125)"<This block of commented-out lines of code should be removed.(¤ø£8£Õö˜³2

@@ -1,0 +1,10 @@
+
+E
+java:S1604"(Make this anonymous inner class a lambda(¿ÂËó8é²ˆ€³2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Şú¯8ô²ˆ€³2
+G	java:S106"+Replace this use of System.out by a logger.(¨Ú¤ 8¥³ˆ€³2
+L	java:S106"+Replace this use of System.out by a logger.(œ°×Œøÿÿÿÿ8§³ˆ€³2
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¦´“€³2
+]	java:S125("<This block of commented-out lines of code should be removed.(çë»şüÿÿÿÿ8¨ë‘€³2
+X	java:S125+"<This block of commented-out lines of code should be removed.(Ì—Òğ8©ë‘€³2
