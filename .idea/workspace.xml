@@ -5,9 +5,153 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f164b42c-3a3b-4128-a1fd-b26f1dfe0fc3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/CoreJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/CoreJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Abstraction/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Abstraction/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Abstraction/Cycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Abstraction/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Abstraction/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/AccessModifiers1/AccessMod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/AccessModifiers1/AccessMod2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/AccessModifiers1/PrivateAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/AccessModifiers1/PrivateAccess2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/AccessModifiers2/AccessMod3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/AccessModifiers2/PrivateAcess3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/AnonymousClass/Bakery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/AnonymousClass/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/AnonymousClass/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/AnonymousClass/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Arrays/ArraySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Arrays/FindValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Arrays/JaggedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Arrays/PrintValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Arrays/ReversePrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Arrays/TwoDArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Basics/CopyConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Basics/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Basics/ObjectCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Collections/Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Collections/HashTreeMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Collections/ListSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Collections/QueueDequeue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/DeepCopy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/DeepCopy/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/DeepCopy/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Enumeration/Day.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Enumeration/Days.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Enumeration/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Enumeration/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Enumeration/Weekday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Exceptions/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Exceptions/BufferFileReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Exceptions/InsufficientFunds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Exceptions/Maths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Exceptions/Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Exceptions/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Exceptions/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Exceptions/Throws.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/Atomicity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/CF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/CallableInvokeAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/CallableTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/CompletableFutureService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/CountDownLatchService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/CyclicBarrierService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/CyclicBarrierService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/DependentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/Executor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/FutureMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/RunnableTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/ScheduleExecutorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/Subsystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ExecutorFramework/VolatileExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/FileInputOutput/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/FileInputOutput/ReadObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/FileInputOutput/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/FileInputOutput/WriteObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/ArithmeticOperation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/ArithmeticOperation$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/ArithmeticOperation$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/ArithmeticOperation$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/ArithmeticOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/ArrayList1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/KeyValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/Operation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Generics/Wildcard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Inheritance/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Inheritance/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Inheritance/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Inheritance/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Inheritance2/InheritanceProtected.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/InnerClasses/Computer$OperatingSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/InnerClasses/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/InnerClasses/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/InnerLocalClass/Hotel$1validateRoomBooking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/InnerLocalClass/Hotel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/InnerLocalClass/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Interfaces/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Interfaces/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Interfaces/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Interfaces/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Lambda/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Lambda/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Lambda/SoftwareEngineer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Math/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/MemberStaticInnerClass/Computer$OperatingSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/MemberStaticInnerClass/Computer$USB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/MemberStaticInnerClass/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/MemberStaticInnerClass/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/BankApp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/BankApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/DaemonThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/Deadlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/LambdaThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/LambdaThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/Paper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/Pen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/ReentrantExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/ReentrantFairnessExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/ReentrantFairnessExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/SharedResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/SyncDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/SyncThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Multithreading/ThreadCommunication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Polymorphism/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Polymorphism/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Polymorphism/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Polymorphism/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Polymorphism/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Recursion/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Recursion/SumOfNaturalNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ShallowCopy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ShallowCopy/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/ShallowCopy/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Static/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Static/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Wrapper/Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +194,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2ntug2iso83P7LdxeqKsqFRe2sm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -84,7 +231,7 @@
       <recent name="Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileInputOutput.Demo">
+  <component name="RunManager" selected="Application.Atomicity">
     <configuration name="Atomicity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExecutorFramework.Atomicity" />
       <module name="CoreJava" />
@@ -98,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileInputOutput.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileInputOutput.Demo" />
+    <configuration name="Generics.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Demo" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileInputOutput.*" />
+          <option name="PATTERN" value="Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +258,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generics.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Demo" />
-      <module name="CoreJava" />
+    <configuration name="MyWeatherServlet.java" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.*" />
+          <option name="PATTERN" value="FileInputOutput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,7 +303,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileInputOutput.Demo" />
+        <item itemvalue="Application.MyWeatherServlet.java" />
         <item itemvalue="Application.Atomicity" />
         <item itemvalue="Application.VolatileExample" />
         <item itemvalue="Application.Generics.Demo" />
@@ -176,6 +324,8 @@
       <workItem from="1731212331322" duration="257000" />
       <workItem from="1731212611129" duration="354000" />
       <workItem from="1731212985575" duration="61111000" />
+      <workItem from="1733195925656" duration="1145000" />
+      <workItem from="1733357886663" duration="35000" />
     </task>
     <servers />
   </component>
