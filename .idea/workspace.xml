@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f164b42c-3a3b-4128-a1fd-b26f1dfe0fc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/main/java/DesignPatterns/FactoryDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Lambda/FirstInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Lambda/FirstInterfaceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Streams/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Streams/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/DesignPatterns/ATM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/DesignPatterns/AtmFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/DesignPatterns/FactoryDesignPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/DesignPatterns/PNBAtm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/DesignPatterns/SBIAtm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/Lambda/FirstInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/Lambda/FirstInterfaceClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/Streams/Demo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/Streams/Demo$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/Streams/Demo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/main/java/Lambda/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Lambda/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +31,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -59,8 +73,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArraySum.executor": "Run",
+    "Application.Demo (1).executor": "Run",
+    "Application.Demo.executor": "Run",
     "Application.FileInputOutput.Demo.executor": "Run",
+    "Application.FirstInterfaceClass.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.StreamExample.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -88,7 +106,7 @@
       <recent name="Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArraySum">
+  <component name="RunManager" selected="Application.StreamExample">
     <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.ArraySum" />
       <module name="CoreJava" />
@@ -102,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atomicity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExecutorFramework.Atomicity" />
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Demo" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExecutorFramework.*" />
+          <option name="PATTERN" value="Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileInputOutput.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileInputOutput.Demo" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Demo" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileInputOutput.*" />
+          <option name="PATTERN" value="Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generics.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Demo" />
+    <configuration name="FirstInterfaceClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.FirstInterfaceClass" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.*" />
+          <option name="PATTERN" value="Lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolatileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExecutorFramework.VolatileExample" />
+    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.StreamExample" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExecutorFramework.*" />
+          <option name="PATTERN" value="Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamExample" />
+        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.FirstInterfaceClass" />
         <item itemvalue="Application.ArraySum" />
-        <item itemvalue="Application.FileInputOutput.Demo" />
-        <item itemvalue="Application.Atomicity" />
-        <item itemvalue="Application.VolatileExample" />
-        <item itemvalue="Application.Generics.Demo" />
       </list>
     </recent_temporary>
   </component>

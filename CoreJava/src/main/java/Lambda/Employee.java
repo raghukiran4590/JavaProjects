@@ -4,4 +4,6 @@ public interface Employee {
 
     String getRole();
 
+//    int getSum();
+
 }
