@@ -27,11 +27,18 @@ public class StreamExample {
                     return number % 2 == 0;
                 })
                 .map(number -> {
-                    System.out.println("In Map method, number :  "+number+" thread : "+Thread.currentThread().getName());
+                    System.out.println("In Map method, number :  " + number + " thread : " + Thread.currentThread().getName());
                     return number * number;
                 }).forEachOrdered(number -> {
-                    System.out.println("In ForEach method, number :  "+number+" thread : "+Thread.currentThread().getName());
+                    System.out.println("In ForEach method, number :  " + number + " thread : " + Thread.currentThread().getName());
                 });
+
+        System.out.println(Runtime.getRuntime().availableProcessors());
+
+        List<String> StrList = Arrays.asList("J", "A", "V", "A", "P", "R", "O", "G", "R", "A", "M");
+        StrList.stream().forEach(System.out::print);
+        System.out.println();
+        StrList.parallelStream().forEach(System.out::print);
 
     }
 }

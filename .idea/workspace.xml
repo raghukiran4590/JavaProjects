@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f164b42c-3a3b-4128-a1fd-b26f1dfe0fc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Lambda/FirstInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Lambda/FirstInterfaceClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Streams/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Streams/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/DesignPatterns/ATM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/DesignPatterns/AtmFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/DesignPatterns/FactoryDesignPattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/DesignPatterns/PNBAtm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/DesignPatterns/SBIAtm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/Lambda/FirstInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/Lambda/FirstInterfaceClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/Streams/Demo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/Streams/Demo$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJava/target/classes/Streams/Demo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/main/java/Lambda/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Lambda/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/main/java/Multithreading/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Multithreading/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/src/main/java/Streams/StreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Streams/StreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Streams/StreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/target/classes/Streams/StreamExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
