@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f164b42c-3a3b-4128-a1fd-b26f1dfe0fc3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/main/java/Multithreading/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Multithreading/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/src/main/java/Streams/StreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/src/main/java/Streams/StreamExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/target/classes/Streams/StreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/target/classes/Streams/StreamExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
