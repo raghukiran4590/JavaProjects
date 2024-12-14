@@ -31,5 +31,5 @@ public class StudentController {
     public void postStudentDetails(@RequestBody Student st) {
         log.info("Request body received: {}", st);
     }
-    
+
 }
