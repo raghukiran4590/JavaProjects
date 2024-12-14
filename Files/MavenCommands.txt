@@ -1,0 +1,136 @@
+(base) raghukiran@raghus-MBP demo % mvn dependency:tree
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------------< com.example:demo >--------------------------
+[INFO] Building demo 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- dependency:3.8.1:tree (default-cli) @ demo ---
+[INFO] com.example:demo:jar:0.0.1-SNAPSHOT
+[INFO] +- org.springframework.boot:spring-boot-starter-web:jar:3.4.0:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter:jar:3.4.0:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot:jar:3.4.0:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-autoconfigure:jar:3.4.0:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-starter-logging:jar:3.4.0:compile
+[INFO] |  |  |  +- ch.qos.logback:logback-classic:jar:1.5.12:compile
+[INFO] |  |  |  |  \- ch.qos.logback:logback-core:jar:1.5.12:compile
+[INFO] |  |  |  +- org.apache.logging.log4j:log4j-to-slf4j:jar:2.24.1:compile
+[INFO] |  |  |  |  \- org.apache.logging.log4j:log4j-api:jar:2.24.1:compile
+[INFO] |  |  |  \- org.slf4j:jul-to-slf4j:jar:2.0.16:compile
+[INFO] |  |  +- jakarta.annotation:jakarta.annotation-api:jar:2.1.1:compile
+[INFO] |  |  \- org.yaml:snakeyaml:jar:2.3:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-json:jar:3.4.0:compile
+[INFO] |  |  +- com.fasterxml.jackson.core:jackson-databind:jar:2.18.1:compile
+[INFO] |  |  |  +- com.fasterxml.jackson.core:jackson-annotations:jar:2.18.1:compile
+[INFO] |  |  |  \- com.fasterxml.jackson.core:jackson-core:jar:2.18.1:compile
+[INFO] |  |  +- com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.18.1:compile
+[INFO] |  |  +- com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.18.1:compile
+[INFO] |  |  \- com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.18.1:compile
+[INFO] |  +- org.springframework:spring-web:jar:6.2.0:compile
+[INFO] |  |  +- org.springframework:spring-beans:jar:6.2.0:compile
+[INFO] |  |  \- io.micrometer:micrometer-observation:jar:1.14.1:compile
+[INFO] |  |     \- io.micrometer:micrometer-commons:jar:1.14.1:compile
+[INFO] |  \- org.springframework:spring-webmvc:jar:6.2.0:compile
+[INFO] |     +- org.springframework:spring-aop:jar:6.2.0:compile
+[INFO] |     +- org.springframework:spring-context:jar:6.2.0:compile
+[INFO] |     \- org.springframework:spring-expression:jar:6.2.0:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-jetty:jar:3.4.0:compile
+[INFO] |  +- jakarta.servlet:jakarta.servlet-api:jar:6.0.0:compile
+[INFO] |  +- jakarta.websocket:jakarta.websocket-api:jar:2.1.1:compile
+[INFO] |  +- jakarta.websocket:jakarta.websocket-client-api:jar:2.1.1:compile
+[INFO] |  +- org.apache.tomcat.embed:tomcat-embed-el:jar:10.1.33:compile
+[INFO] |  +- org.eclipse.jetty.ee10:jetty-ee10-servlets:jar:12.0.15:compile
+[INFO] |  |  +- org.eclipse.jetty:jetty-http:jar:12.0.15:compile
+[INFO] |  |  +- org.eclipse.jetty:jetty-io:jar:12.0.15:compile
+[INFO] |  |  +- org.eclipse.jetty:jetty-util:jar:12.0.15:compile
+[INFO] |  |  \- org.slf4j:slf4j-api:jar:2.0.16:compile
+[INFO] |  +- org.eclipse.jetty.ee10:jetty-ee10-webapp:jar:12.0.15:compile
+[INFO] |  |  +- org.eclipse.jetty:jetty-ee:jar:12.0.15:compile
+[INFO] |  |  |  \- org.eclipse.jetty:jetty-server:jar:12.0.15:compile
+[INFO] |  |  +- org.eclipse.jetty:jetty-session:jar:12.0.15:compile
+[INFO] |  |  +- org.eclipse.jetty:jetty-xml:jar:12.0.15:compile
+[INFO] |  |  \- org.eclipse.jetty.ee10:jetty-ee10-servlet:jar:12.0.15:compile
+[INFO] |  |     \- org.eclipse.jetty:jetty-security:jar:12.0.15:compile
+[INFO] |  +- org.eclipse.jetty.ee10.websocket:jetty-ee10-websocket-jakarta-server:jar:12.0.15:compile
+[INFO] |  |  +- org.eclipse.jetty.ee10:jetty-ee10-annotations:jar:12.0.15:compile
+[INFO] |  |  |  +- org.eclipse.jetty.ee10:jetty-ee10-plus:jar:12.0.15:compile
+[INFO] |  |  |  |  +- jakarta.enterprise:jakarta.enterprise.cdi-api:jar:4.0.1:compile
+[INFO] |  |  |  |  |  \- jakarta.inject:jakarta.inject-api:jar:2.0.1:compile
+[INFO] |  |  |  |  +- jakarta.enterprise:jakarta.enterprise.lang-model:jar:4.0.1:compile
+[INFO] |  |  |  |  +- jakarta.interceptor:jakarta.interceptor-api:jar:2.1.0:compile
+[INFO] |  |  |  |  +- jakarta.transaction:jakarta.transaction-api:jar:2.0.1:compile
+[INFO] |  |  |  |  \- org.eclipse.jetty:jetty-plus:jar:12.0.15:compile
+[INFO] |  |  |  +- org.ow2.asm:asm:jar:9.7.1:compile
+[INFO] |  |  |  \- org.ow2.asm:asm-commons:jar:9.7.1:compile
+[INFO] |  |  |     \- org.ow2.asm:asm-tree:jar:9.7.1:compile
+[INFO] |  |  +- org.eclipse.jetty.ee10.websocket:jetty-ee10-websocket-jakarta-client:jar:12.0.15:compile
+[INFO] |  |  |  +- org.eclipse.jetty:jetty-client:jar:12.0.15:compile
+[INFO] |  |  |  |  \- org.eclipse.jetty:jetty-alpn-client:jar:12.0.15:compile
+[INFO] |  |  |  +- org.eclipse.jetty.ee10.websocket:jetty-ee10-websocket-jakarta-common:jar:12.0.15:compile
+[INFO] |  |  |  \- org.eclipse.jetty.websocket:jetty-websocket-core-client:jar:12.0.15:compile
+[INFO] |  |  \- org.eclipse.jetty.ee10.websocket:jetty-ee10-websocket-servlet:jar:12.0.15:compile
+[INFO] |  |     \- org.eclipse.jetty.websocket:jetty-websocket-core-server:jar:12.0.15:compile
+[INFO] |  \- org.eclipse.jetty.ee10.websocket:jetty-ee10-websocket-jetty-server:jar:12.0.15:compile
+[INFO] |     +- org.eclipse.jetty.websocket:jetty-websocket-jetty-api:jar:12.0.15:compile
+[INFO] |     \- org.eclipse.jetty.websocket:jetty-websocket-jetty-common:jar:12.0.15:compile
+[INFO] |        \- org.eclipse.jetty.websocket:jetty-websocket-core-common:jar:12.0.15:compile
+[INFO] \- org.springframework.boot:spring-boot-starter-test:jar:3.4.0:test
+[INFO]    +- org.springframework.boot:spring-boot-test:jar:3.4.0:test
+[INFO]    +- org.springframework.boot:spring-boot-test-autoconfigure:jar:3.4.0:test
+[INFO]    +- com.jayway.jsonpath:json-path:jar:2.9.0:test
+[INFO]    +- jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.2:test
+[INFO]    |  \- jakarta.activation:jakarta.activation-api:jar:2.1.3:test
+[INFO]    +- net.minidev:json-smart:jar:2.5.1:test
+[INFO]    |  \- net.minidev:accessors-smart:jar:2.5.1:test
+[INFO]    +- org.assertj:assertj-core:jar:3.26.3:test
+[INFO]    |  \- net.bytebuddy:byte-buddy:jar:1.15.10:test
+[INFO]    +- org.awaitility:awaitility:jar:4.2.2:test
+[INFO]    +- org.hamcrest:hamcrest:jar:2.2:test
+[INFO]    +- org.junit.jupiter:junit-jupiter:jar:5.11.3:test
+[INFO]    |  +- org.junit.jupiter:junit-jupiter-api:jar:5.11.3:test
+[INFO]    |  |  +- org.opentest4j:opentest4j:jar:1.3.0:test
+[INFO]    |  |  +- org.junit.platform:junit-platform-commons:jar:1.11.3:test
+[INFO]    |  |  \- org.apiguardian:apiguardian-api:jar:1.1.2:test
+[INFO]    |  +- org.junit.jupiter:junit-jupiter-params:jar:5.11.3:test
+[INFO]    |  \- org.junit.jupiter:junit-jupiter-engine:jar:5.11.3:test
+[INFO]    |     \- org.junit.platform:junit-platform-engine:jar:1.11.3:test
+[INFO]    +- org.mockito:mockito-core:jar:5.14.2:test
+[INFO]    |  +- net.bytebuddy:byte-buddy-agent:jar:1.15.10:test
+[INFO]    |  \- org.objenesis:objenesis:jar:3.3:test
+[INFO]    +- org.mockito:mockito-junit-jupiter:jar:5.14.2:test
+[INFO]    +- org.skyscreamer:jsonassert:jar:1.5.3:test
+[INFO]    |  \- com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test
+[INFO]    +- org.springframework:spring-core:jar:6.2.0:compile
+[INFO]    |  \- org.springframework:spring-jcl:jar:6.2.0:compile
+[INFO]    +- org.springframework:spring-test:jar:6.2.0:test
+[INFO]    \- org.xmlunit:xmlunit-core:jar:2.10.0:test
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.205 s
+[INFO] Finished at: 2024-12-11T22:34:43-05:00
+[INFO] ------------------------------------------------------------------------
+
+
+(base) raghukiran@raghus-MBP demo % mvn dependency:tree -Dincludes=org.apache.logging.log4j
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------------< com.example:demo >--------------------------
+[INFO] Building demo 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- dependency:3.8.1:tree (default-cli) @ demo ---
+[INFO] com.example:demo:jar:0.0.1-SNAPSHOT
+[INFO] \- org.springframework.boot:spring-boot-starter-web:jar:3.4.0:compile
+[INFO]    \- org.springframework.boot:spring-boot-starter:jar:3.4.0:compile
+[INFO]       \- org.springframework.boot:spring-boot-starter-logging:jar:3.4.0:compile
+[INFO]          \- org.apache.logging.log4j:log4j-to-slf4j:jar:2.24.1:compile
+[INFO]             \- org.apache.logging.log4j:log4j-api:jar:2.24.1:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.192 s
+[INFO] Finished at: 2024-12-11T22:38:34-05:00
+[INFO] ------------------------------------------------------------------------
