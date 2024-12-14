@@ -1,7 +1,10 @@
 package com.example.demo.controller;
 
 import com.example.demo.models.Demo;
+import com.example.demo.service.PaymentServiceInterf;
+import com.example.demo.serviceimpl.CardPaymentImpl;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.client.RestTemplate;
@@ -23,7 +26,23 @@ public class DemoController {
     }
 
     @Autowired
+    @Qualifier("getTemplate")
     RestTemplate restTemplate;
+
+    @Autowired
+    @Qualifier("WalletPaymentImpl")
+    PaymentServiceInterf walletType;
+
+    @Autowired
+    @Qualifier("CardPaymentImpl")
+    PaymentServiceInterf cardTypeWithQualifier;
+
+
+    @Autowired
+    PaymentServiceInterf cardType;
+
+    @Autowired
+    CardPaymentImpl cardPayment;
 
 
     @GetMapping("/demo")
