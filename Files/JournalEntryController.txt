@@ -9,25 +9,25 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@RestController
-@RequestMapping("/journal")
+//@RestController
+//@RequestMapping("/journal")
 public class JournalEntryController {
 
     private Map<Long, JournalEntry> journalEntries = new HashMap<>();
 
     @GetMapping
     public List<JournalEntry> getAllEntries() {
-        return new ArrayList<>(journalEntries.values());
+       return new ArrayList<>(journalEntries.values());
     }
 
     @GetMapping("/id/{myId}")
     public JournalEntry getEntryById(@PathVariable Long myId) {
-        return  journalEntries.get(myId);
+       return  journalEntries.get(myId);
     }
 
     @PutMapping("/id/{myId}")
     public JournalEntry putEntryById(@PathVariable Long myId, @RequestBody JournalEntry updateEntry) {
-        return journalEntries.put(myId, updateEntry);
+       return journalEntries.put(myId, updateEntry);
     }
 
     @PostMapping
@@ -39,7 +39,7 @@ public class JournalEntryController {
     @PostMapping("/postAll")
     public boolean createEntries(@RequestBody List<JournalEntry> journals) {
         for (JournalEntry j : journals) {
-//            journalEntries.put(j.getId(), j);
+           journalEntries.put(j.getId(), j);
         }
         return true;
     }
