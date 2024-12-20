@@ -25,8 +25,8 @@ public List<JournalEntry> getAllEntries() {
     return journalEntryRepository.findAll();
 }
 
-public Optional<JournalEntry> getEntryById(ObjectId myId) {
-    return journalEntryRepository.findById(String.valueOf(myId));
+public Optional<JournalEntry> findById(ObjectId myId) {
+    return journalEntryRepository.findById(myId);
 }
 
 @Transactional
@@ -36,8 +36,7 @@ public void saveEntry(JournalEntry journalEntry, String userName) {
         journalEntry.setDate(LocalDateTime.now());
         JournalEntry saved = journalEntryRepository.save(journalEntry);
         user.getJournalEntries().add(saved);
-//        user.setUserName(null);
-        userService.saveEntry(user);
+        userService.saveUser(user);
     } catch (Exception e) {
         System.out.println(e);
         throw new RuntimeException("An error occurred while executing the program",e);
@@ -51,7 +50,7 @@ public void saveEntry(JournalEntry journalEntry) {
 public boolean deleteEntryById(ObjectId myId, String userName) {
     User user = userService.findByUserName(userName);
     user.getJournalEntries().removeIf(x -> x.getId().equals(myId));
-    userService.saveEntry(user);
+    userService.saveUser(user);
     journalEntryRepository.deleteById(myId);
     return true;
 }
