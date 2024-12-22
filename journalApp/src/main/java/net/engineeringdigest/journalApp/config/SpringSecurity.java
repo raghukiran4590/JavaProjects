@@ -40,8 +40,10 @@ public class SpringSecurity {
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
 
         return http.authorizeHttpRequests(request -> request
+                        .antMatchers("/public/**").permitAll()
                         .antMatchers("/journal/**", "/user/**").authenticated()
-                        .anyRequest().permitAll())
+                        .antMatchers("/admin/**").hasRole("ADMIN")
+                        .anyRequest().authenticated())
                 .httpBasic(Customizer.withDefaults())
                 .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
                 .and().csrf(AbstractHttpConfigurer::disable)

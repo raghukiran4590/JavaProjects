@@ -36,10 +36,20 @@ import java.util.Optional;
             userEntryRepository.save(user);
         }
 
-        public void saveNewUser(User user) {
-            user.setPassword(passwordEncoder.encode(user.getPassword()));
-            user.setRoles(Arrays.asList("USER"));
-            userEntryRepository.save(user);
+        public boolean saveNewUser(User user) {
+            try {
+                user.setPassword(passwordEncoder.encode(user.getPassword()));
+                user.setRoles(Arrays.asList("USER"));
+                userEntryRepository.save(user);
+                return true;
+            } catch (Exception e) {
+                return false;
+            }
         }
 
+        public void saveAdminUser(User user) {
+            user.setPassword(passwordEncoder.encode(user.getPassword()));
+            user.setRoles(Arrays.asList("USER", "ADMIN"));
+            userEntryRepository.save(user);
+        }
     }
