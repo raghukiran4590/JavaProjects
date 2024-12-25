@@ -1,8 +1,10 @@
 package net.engineeringdigest.journalApp.controller;
 
+import net.engineeringdigest.journalApp.api.response.WeatherResponse;
 import net.engineeringdigest.journalApp.entity.User;
 import net.engineeringdigest.journalApp.repository.UserEntryRepository;
 import net.engineeringdigest.journalApp.service.UserService;
+import net.engineeringdigest.journalApp.service.WeatherService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -22,14 +24,20 @@ import java.util.List;
         @Autowired
         private UserEntryRepository userEntryRepository;
 
-/*        @GetMapping
-        public ResponseEntity<?> getAllUsers() {
-            List<User> allUsers = userService.getAll();
-            if (allUsers != null && !allUsers.isEmpty()) {
-                return new ResponseEntity<>(allUsers, HttpStatus.OK);
+        @Autowired
+        private WeatherService weatherService;
+
+        @GetMapping
+        public ResponseEntity<?> greeting() {
+            Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+            WeatherResponse weatherResponse = weatherService.getWeather("Miami");
+            String greeting = "";
+            if (weatherResponse != null) {
+                greeting = ", Weather feels like "+ weatherResponse.getCurrent().getFeelsLike();
+                return new ResponseEntity<>("Hi! "+authentication.getName() + greeting, HttpStatus.OK);
             }
-            return new ResponseEntity<>(allUsers, HttpStatus.OK);
-        }*/
+            return new ResponseEntity<>("Hi! "+authentication.getName() + greeting, HttpStatus.OK);
+        }
 
         @PutMapping
         public ResponseEntity<?> updateUser(@RequestBody User user) {
