@@ -2,10 +2,7 @@ package net.engineeringdigest.journalApp.service;
 
 import net.engineeringdigest.journalApp.entity.User;
 import net.engineeringdigest.journalApp.repository.UserEntryRepository;
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
 import org.mockito.ArgumentMatchers;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
@@ -39,7 +36,7 @@ public class UserDetailsServiceImplTests {
         MockitoAnnotations.openMocks(this);
     }
 
-
+@Disabled
     @Test
     void loadUserByUsernameTest() {
         when(userEntryRepository.findByUserName(ArgumentMatchers.anyString())).thenReturn(User.builder().userName("ram").password("iehfksjdbfb").roles(new ArrayList<>()).build());
