@@ -30,7 +30,7 @@ import java.util.List;
         @GetMapping
         public ResponseEntity<?> greeting() {
             Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
-            WeatherResponse weatherResponse = weatherService.getWeather("Miami");
+            WeatherResponse weatherResponse = weatherService.getWeather("Chicago");
             String greeting = "";
             if (weatherResponse != null) {
                 greeting = ", Weather feels like "+ weatherResponse.getCurrent().getFeelsLike();

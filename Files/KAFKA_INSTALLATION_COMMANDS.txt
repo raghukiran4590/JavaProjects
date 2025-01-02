@@ -1,0 +1,39 @@
+🟢 INSTALLATION COMMANDS
+
+#Start Kafka Zookeeper
+cd /usr/local/opt/kafka/bin/zookeeper-server-start /usr/local/etc/kafka/zookeeper.properties
+
+#Start Kafka Broker
+cd /usr/local/opt/kafka/bin/kafka-server-start /usr/local/etc/kafka/server.properties
+
+#Create Kafka Topic
+cd /usr/local/opt/kafka/bin/kafka-topics --create --topic my-topic --bootstrap-server 192.168.254.181:9092 --replication-factor 1 --partitions 3
+
+#Produce Kafka Message
+cd /usr/local/opt/kafka/bin/kafka-console-producer --broker-list 192.168.254.181:9092 --topic my-topic
+
+#Consume Kafka Message
+cd /usr/local/opt/kafka/bin/kafka-console-consumer --bootstrap-server 192.168.254.181:9092 --topic my-topic --from-beginning
+
+#Create New Topic With 4 Partitions
+cd /usr/local/opt/kafka/bin/kafka-topics --create --topic fruits --bootstrap-server 192.168.254.181:9092 --replication-factor 1 --partitions 4
+
+#Create Kafka Producer with Key Separator
+cd /usr/local/opt/kafka/bin/kafka-console-producer --broker-list 192.168.254.181:9092 --topic fruits --property "key.separator=-" --property "parse.key=true"
+
+#create Kafka Consumer With Key Separator
+cd /usr/local/opt/kafka/bin/kafka-console-consumer --bootstrap-server 192.168.254.181:9092 --topic fruits --from-beginning -property "key.separator=-" --property "print.key=false"
+
+#List the Topics Created in the Kafka Cluster
+cd /usr/local/opt/kafka/bin/kafka-topics --list --bootstrap-server 192.168.254.181:9092
+
+#Describe Topics Created in the Kafka Cluster
+cd /usr/local/opt/kafka/bin/kafka-topics --describe --topic fruits --bootstrap-server 192.168.254.181:9092
+
+#Describe Topics Created in the Kafka Cluster having 3 broker servers with different port numbers
+cd /usr/local/opt/kafka/bin/kafka-topics --describe --topic fruits --bootstrap-server 192.168.254.181:9092, 192.168.254.181:9093, 192.168.254.181:9094
+
+#List the Consumer Groups Created
+cd /usr/local/opt/kafka/bin/kafka-consumer-groups --list --bootstrap-server 192.168.254.181:9092
+
+
