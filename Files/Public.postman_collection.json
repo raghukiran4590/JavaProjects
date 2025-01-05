@@ -1,0 +1,119 @@
+{
+	"info": {
+		"_postman_id": "a9dc3fc8-4779-4fe1-9e0a-bf2b6b7afd9e",
+		"name": "Public",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33885401"
+	},
+	"item": [
+		{
+			"name": "Create User",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"userName\": \"ram\",\n    \"password\": \"ram\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/journal/public/create-user",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"journal",
+						"public",
+						"create-user"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Health Check",
+			"protocolProfileBehavior": {
+				"strictSSL": true,
+				"protocolVersion": "auto"
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{domain}}/journal/public/health-check",
+					"host": [
+						"{{domain}}"
+					],
+					"path": [
+						"journal",
+						"public",
+						"health-check"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "login",
+			"protocolProfileBehavior": {
+				"protocolVersion": "auto",
+				"strictSSL": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"userName\": \"ram\",\n    \"password\": \"ram\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{domain}}/journal/public/login",
+					"host": [
+						"{{domain}}"
+					],
+					"path": [
+						"journal",
+						"public",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Home Page",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{domain}}/journal/",
+					"host": [
+						"{{domain}}"
+					],
+					"path": [
+						"journal",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
