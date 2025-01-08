@@ -241,3 +241,13 @@ q
 Aspring-data-jpa-example/src/main/resources/application.properties,1/0/109daf246b902357a104eb8fb10dc8a60481b5c7
 O
 spring-data-jpa-example/pom.xml,9/5/956d89007ec0faed344dd40c783f17be72c3ebbe
+Ç
+RjournalApp/src/main/java/net/engineeringdigest/journalApp/service/UserService.java,9/0/903d5535b1f5bc96f4f8bb4560e50bce6ccb2449
+à
+XjournalApp/src/main/java/net/engineeringdigest/journalApp/controller/UserController.java,7/6/76b1b0703ac0e27aa7182d8836cfff3281253784
+ç
+]journalApp/src/main/java/net/engineeringdigest/journalApp/repository/UserEntryRepository.java,c/c/cc00f9c7a82e04490f0795156f4d8b7599af8479
+å
+\journalApp/src/main/java/net/engineeringdigest/journalApp/repository/UserRepositoryImpl.java,4/2/4285554a2dbc2fe7b199700648f771ba5ce02da5
+z
+JjournalApp/src/main/java/net/engineeringdigest/journalApp/entity/User.java,9/0/9060006a425b41f636cf2bd38a8dc7eb9656d3e6

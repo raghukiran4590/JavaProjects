@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f164b42c-3a3b-4128-a1fd-b26f1dfe0fc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/springdatajpa/example/controller/Healthcheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/springdatajpa/example/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/springdatajpa/example/model/UserRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/springdatajpa/example/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/springdatajpa/example/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/CoreJava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-data-jpa-example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-data-jpa-example/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/spring_data_jpa_example/SpringDataJpaExampleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/springdatajpa/example/SpringDataJpaExampleApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-data-jpa-example/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-data-jpa-example/src/test/java/com/gfg/spring_data_jpa_example/SpringDataJpaExampleApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/test/java/com/gfg/springdatajpa/example/SpringDataJpaExampleApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="f164b42c-3a3b-4128-a1fd-b26f1dfe0fc3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,7 +189,7 @@
       <workItem from="1731212611129" duration="354000" />
       <workItem from="1731212985575" duration="61111000" />
       <workItem from="1736194430417" duration="20000" />
-      <workItem from="1736281751234" duration="3133000" />
+      <workItem from="1736281751234" duration="3143000" />
     </task>
     <servers />
   </component>
