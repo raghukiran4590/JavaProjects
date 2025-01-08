@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f164b42c-3a3b-4128-a1fd-b26f1dfe0fc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/springdatajpa/example/controller/Healthcheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/springdatajpa/example/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/springdatajpa/example/model/UserRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/springdatajpa/example/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/springdatajpa/example/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/CoreJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-data-jpa-example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-data-jpa-example/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/spring_data_jpa_example/SpringDataJpaExampleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/java/com/gfg/springdatajpa/example/SpringDataJpaExampleApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-data-jpa-example/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-data-jpa-example/src/test/java/com/gfg/spring_data_jpa_example/SpringDataJpaExampleApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-data-jpa-example/src/test/java/com/gfg/springdatajpa/example/SpringDataJpaExampleApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,41 +77,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArraySum.executor": "Run",
-    "Application.Demo (1).executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.FileInputOutput.Demo.executor": "Run",
-    "Application.FirstInterfaceClass.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.MySQL.executor": "Run",
-    "Application.PostgreSQL.executor": "Run",
-    "Application.StreamExample.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JAR Application.MavenDemo-1.0-SNAPSHOT.jar.executor": "Run",
-    "Maven.CoreJava [clean].executor": "Run",
-    "Maven.CoreJava [compile,package].executor": "Run",
-    "Maven.CoreJava [compile].executor": "Run",
-    "Maven.CoreJava [install].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "openjdk-23",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/raghukiran/Desktop/JavaProjects",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileInputOutput.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstInterfaceClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MySQL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PostgreSQL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamExample.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JAR Application.MavenDemo-1.0-SNAPSHOT.jar.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CoreJava [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CoreJava [compile,package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CoreJava [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CoreJava [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-23&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/raghukiran/Desktop/JavaProjects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Inheritance2" />
@@ -190,6 +202,8 @@
       <workItem from="1731212331322" duration="257000" />
       <workItem from="1731212611129" duration="354000" />
       <workItem from="1731212985575" duration="61111000" />
+      <workItem from="1736194430417" duration="20000" />
+      <workItem from="1736281751234" duration="3133000" />
     </task>
     <servers />
   </component>
