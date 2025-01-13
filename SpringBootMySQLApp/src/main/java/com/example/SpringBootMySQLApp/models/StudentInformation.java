@@ -12,9 +12,6 @@ public class StudentInformation {
     private int rollno;
     private String name;
 
-
-    public int getRollno() { return rollno; }
-
     public StudentInformation() {}
 
     public StudentInformation(int rollno, String name)
@@ -22,6 +19,8 @@ public class StudentInformation {
         this.rollno = rollno;
         this.name = name;
     }
+
+    public int getRollno() { return rollno; }
 
     public void setRollno(int rollno)
     {
@@ -31,5 +30,6 @@ public class StudentInformation {
     public String getName() { return name; }
 
     public void setName(String name) { this.name = name; }
+
 }
 
