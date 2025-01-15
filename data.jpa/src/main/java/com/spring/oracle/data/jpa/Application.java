@@ -21,9 +21,9 @@ public class Application {
 		ContactsMasterEntity contactsMasterEntity = new ContactsMasterEntity();
 		
 		
-		contactsMasterEntity.setContactId(1);
-		contactsMasterEntity.setContactName("Raghu Kiran");
-		contactsMasterEntity.setContactNumber(9849687195l);
+		contactsMasterEntity.setContactId(2);
+		contactsMasterEntity.setContactName("Vriha Kiran");
+		contactsMasterEntity.setContactNumber(9849687196l);
 		
 		contactsMasterRepo.save(contactsMasterEntity);
 		
