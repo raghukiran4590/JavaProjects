@@ -1,0 +1,20 @@
+
+ƒ
+java:S1488"fImmediately return this expression instead of assigning it to the temporary variable "sessionFactory".(˜î÷ö8ƒŞ¾ÿÅ2
+O
+java:S1172 "-Remove this unused method parameter "player".(›úäÏşÿÿÿÿ8¶ÀãÿÅ2
+G	java:S106*"+Replace this use of System.out by a logger.(—ÛŸ†8şŞ¾ÿÅ2
+]	java:S125!"<This block of commented-out lines of code should be removed.(Ä¡ê„şÿÿÿÿ8ıŞ¾ÿÅ2
+X	java:S125-"<This block of commented-out lines of code should be removed.(È“¿µ8èüäÿÅ2
+w
+java:S1128"URemove this unused import 'com.edbg.snow.ihub.inventory.repository.PlayerRepository'.(“«õøÿÿÿÿ8ÛÒçÿÅ2
+[
+java:S1128">Remove this unused import 'jakarta.transaction.Transactional'.(ß–Ê³8İÒçÿÅ2
+T
+java:S1128"2Remove this unused import 'org.hibernate.Session'.(È¹›§ùÿÿÿÿ8İÒçÿÅ2
+S
+java:S1128	"6Remove this unused import 'org.hibernate.Transaction'.(ìÌè³8İÒçÿÅ2
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8İÒçÿÅ2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8İÒçÿÅ2

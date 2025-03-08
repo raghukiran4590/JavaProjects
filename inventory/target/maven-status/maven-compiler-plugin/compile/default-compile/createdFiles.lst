@@ -1,0 +1,7 @@
+com/edbg/snow/ihub/inventory/service/PlayerService.class
+com/edbg/snow/ihub/inventory/entity/Player$PlayerBuilder.class
+com/edbg/snow/ihub/inventory/controller/HealthCheck.class
+com/edbg/snow/ihub/inventory/InventoryApplication.class
+com/edbg/snow/ihub/inventory/entity/Player.class
+com/edbg/snow/ihub/inventory/repository/PlayerRepository.class
+com/edbg/snow/ihub/inventory/controller/PlayerController.class

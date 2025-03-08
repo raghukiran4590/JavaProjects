@@ -1,0 +1,11 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(×«Àß8ŸÓ£€Æ2
+q
+java:S1128"ORemove this unused import 'com.edbg.snow.ihub.inventory.service.PlayerService'.(”¯Üõüÿÿÿÿ8«Ó£€Æ2
+e
+java:S1128
+"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8®Ó£€Æ2
+ƒ
+java:S1128"aRemove this unused import 'org.springframework.data.jpa.repository.config.EnableJpaRepositories'.(²œ˜üÿÿÿÿ8¯Ó£€Æ2
+€
+java:S1128"cRemove this unused import 'org.springframework.transaction.annotation.EnableTransactionManagement'.(‘Ó¼8¯Ó£€Æ2

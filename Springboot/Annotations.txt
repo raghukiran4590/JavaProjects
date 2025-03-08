@@ -1,0 +1,20 @@
+@SpringbootApplication
+@Controller
+@RestController
+@RequestMapping
+@GetMapping, @PostMapping, @PutMapping, @DeleteMapping
+@Autowired
+@Component
+@Service
+@Repository
+@ComponentScan
+@Configuration
+@Value
+@Qualifier
+@Profile
+@EnableAutoConfiguration
+@Entity
+@Transactional
+@EnableCaching
+@Async
+@EnableScheduling
